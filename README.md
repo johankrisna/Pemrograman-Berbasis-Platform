@@ -6,7 +6,7 @@
 <body>
 
 <h1>Biodata Diri</h1>
-<p><img src = "C:\Users\No Name\Downloads" width = "130"></p>
+<p><img src = "PicsArt_08-19-01.02.58" width = "130"></p>
 <p>
 <b>Nama :</b> Johannes Krisnawan Saputro
 <br>
