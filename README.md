@@ -1,1 +1,29 @@
 # Pemrograman-Berbasis-Platform
+<head>
+<title>Biodata Diri</title>
+</head>
+
+<body>
+
+<h1>Biodata Diri</h1>
+<p><img src = "C:\Users\No Name\Downloads" width = "130"></p>
+<p>
+<b>Nama :</b> Johannes Krisnawan Saputro
+<br>
+<b>Umur :</b> 20 Tahun
+<br>
+<b>Alamat :</b> Jl. Abimanyu No.80 RT.28/RW.06 Wirobrajan, Yogyakarta
+<br>
+<b>Hobi :</b> Main game
+<br>
+<b>Pendidikan :</b>
+<ul>
+<li>SD BOPKRI Wirobrajan </li>
+<li>SMPN 13 Yogyakarta </li>
+<li>SMKN 7 Yogyakarta </li>
+<li>Universitas Sanata Dharma, Jurusan Teknik Informatika</li>
+</ul>
+</p>
+
+</body>
+</html>
