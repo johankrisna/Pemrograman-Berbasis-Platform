@@ -14,7 +14,7 @@
 <br>
 <b>Alamat :</b> Jl. Abimanyu No.80 RT.28/RW.06 Wirobrajan, Yogyakarta
 <br>
-<b>Hobi :</b> Main game
+<b>Hobi :</b> Motoran
 <br>
 <b>Pendidikan :</b>
 <ul>
